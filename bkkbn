@@ -1,0 +1,12 @@
+POST /pai/checkEmail HTTP/1.1
+Host: simsdm.bkkbn.go.id
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.8,he;q=0.6
+X-Kalimpau-Scan-Seed: c59785c30d3b4fd5de14a21aa4afe962
+Cookie: ci_session=qr7mp064bn9sat8f2aliui7147retckq;BIGipServer97QEz0bBGWa3myXlNQjDnQ=!NmNX2httP4QPKzArJRrh8TFkKOwaEPI5K4b5SjVj0s/HJtekTEty6NWnko6bkQDTlv2uBN7Wse/C3Us=;TS0116079a=0103a65d73d958b0352ee99c6e21b421aab48c08cb757a6356315ee6d2624824b2c535b2db057c9aaec672a02bed9e72bd7a898ce9363b69bf5128c8382da6ee263941a4b54daeed2f77d435f5b2f7ea279eabf71d;TS61e14535027=08524756d1ab2000d844ac9bdce14496606accea18643913a6a81e18bb6b0e1d19dfa6517eb8334b085af4656611300099564bc12091cf36229dd1e2312f010238b1b1637a4c54d5bcdde2fc34a51728a28a8b535771651315b6de392753b571;TS0116079a026=01f685ea98ec2120d5a444c93cbe067cc55e7a5842c3f7bd86a12b3fb3dd5b260f445af244c95598babb6f6248a66b9bdf9e5bd7c6bd4f114560ac979750cc5b152aac4cae
+Content-Length: 8
+Content-Type: application/x-www-form-urlencoded
+
+email=1
